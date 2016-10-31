@@ -10,7 +10,7 @@
 
 ## 使用方法
 
-安装`imageio`库，具体方法请自行搜索。
+安装[imageio](http://imageio.github.io/)库，具体方法请自行搜索。
 
 ``` bash
 python main.py [-i image] [-f jpg] [-o out] [-d 0.5]
