@@ -6,11 +6,14 @@
 
 ## 使用的第三方库
 
+> numpy
 > imageio
 
 ## 使用方法
 
-安装[imageio](http://imageio.github.io/)库，具体方法请自行搜索。
+安装[numpy](http://www.numpy.org/)和[imageio](http://imageio.github.io/)库，具体方法请自行搜索。
+
+其中numpy库为imageio所需。
 
 ``` bash
 python main.py [-i image] [-f jpg] [-o out] [-d 0.5]
